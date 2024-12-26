@@ -1,4 +1,6 @@
 # PARP-Bioinformatics
+![image](https://github.com/user-attachments/assets/dc418446-1cdb-484b-ad8b-5c3c3d08ae22)
+
 # Bioinformatika RB- Kelompok 4
 
 
