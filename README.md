@@ -1,6 +1,6 @@
 # PARP-Bioinformatics
 
-Bioinformatika RB
+Bioinformatika RB- Kelompok 4
 
 PARP (Poly ADP-Ribose Polymerase)
 Fungsi: Enzim perbaikan DNA.
