@@ -1,6 +1,6 @@
 # PARP-Bioinformatics
 # Bioinformatika RB- Kelompok 4
-![cancers-13-04520-g001](https://github.com/user-attachments/assets/27534ae3-929f-48ca-929f-b6b80113653d)
+
 
 PARP (Poly ADP-Ribose Polymerase)
 
